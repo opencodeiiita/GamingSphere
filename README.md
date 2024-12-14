@@ -1,19 +1,19 @@
-🎮 Welcome to GamingSphere!
+#🎮 Welcome to GamingSphere!
 ---
 Step into GamingSphere, the ultimate hub for gamers everywhere! 🌟 This is your space to connect, compete, and collaborate in the gaming universe 🎮✨.
+<br>
+At GamingSphere, you can:<br>
+👉 Join Groups based on your favorite games and find like-minded players.<br>
+💬 Chat Away in vibrant group discussions or organize private rooms for an exclusive gaming experience.<br>
+🏆 Host and Compete in thrilling tournaments designed to fuel your competitive spirit.<br>
+👥 Build Communities and enjoy seamless interaction with gamers from all around the world!<br>
+<br>
+We’ve crafted GamingSphere to ensure it’s not just a platform but a community-driven experience that brings collaboration and fun to the forefront 🎉. From creating bonds with fellow gamers to showcasing your gaming prowess, GamingSphere is where the magic happens! ✨🔥<br>
 
-At GamingSphere, you can:
-👉 Join Groups based on your favorite games and find like-minded players.
-💬 Chat Away in vibrant group discussions or organize private rooms for an exclusive gaming experience.
-🏆 Host and Compete in thrilling tournaments designed to fuel your competitive spirit.
-👥 Build Communities and enjoy seamless interaction with gamers from all around the world!
+Hola, Creators! 🎨<br>
+We need your incredible UI/UX design skills to bring GamingSphere to life! 🚀 Whether it’s crafting intuitive user flows or designing dazzling interfaces, this is your chance to leave a mark on a next-gen gaming platform 🕹️.<br>
 
-We’ve crafted GamingSphere to ensure it’s not just a platform but a community-driven experience that brings collaboration and fun to the forefront 🎉. From creating bonds with fellow gamers to showcasing your gaming prowess, GamingSphere is where the magic happens! ✨🔥
-
-Hola, Creators! 🎨
-We need your incredible UI/UX design skills to bring GamingSphere to life! 🚀 Whether it’s crafting intuitive user flows or designing dazzling interfaces, this is your chance to leave a mark on a next-gen gaming platform 🕹️.
-
-Let’s make GamingSphere the gaming community platform everyone’s talking about! 🌈 Ready to create something epic? 💡
+Let’s make GamingSphere the gaming community platform everyone’s talking about! 🌈 Ready to create something epic? 💡<br>
 
 ## ✒Tech Stack:
 
