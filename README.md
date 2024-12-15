@@ -29,8 +29,8 @@ Let’s make GamingSphere the gaming community platform everyone’s talking abo
 
 | Task | Duration |
 | --- | --- |
-| UX Task | 15 th- 18th  Dec |
-| Logo Design | 18th - 22nd Dec |
+| UX Task | 16 th- 19th  Dec |
+| Logo Design | 19th - 22nd Dec |
 | UI Tasks - Part 1 | 22nd - 30th Dec |
 | UI Tasks - Part 2 | 30th Dec - 6th Jan |
 | Major Functioning Pages | 6 th- 12th Jan |
