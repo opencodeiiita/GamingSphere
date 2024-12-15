@@ -18,7 +18,7 @@
 - Organize and join **tournaments** to showcase their gaming skills.
 - Stay updated on the **latest gaming trends** and events.
 
-This is a **10 points** task and is aimed at understanding **User Experience (UX)** and creating an **effective User Flow** for GamingSphere.
+This is a **20 points** task and is aimed at understanding **User Experience (UX)** and creating an **effective User Flow** for GamingSphere.
 
 😊 **Feel free to add additional features in your User Flow that align with the gaming theme.**
 
