@@ -34,7 +34,7 @@ This is a **10 points** task and is aimed at understanding **User Experience (UX
     
     Create a user flow for a specific use case. For example:
     
-    - A user wants to **join a gaming community** for their favorite game.
+    - A user wants to **join a gaming community** for their favourite game.
     - Another user might want to **host a private tournament**.
     - Or perhaps a user wants to **browse and connect with other gamers**.
     
