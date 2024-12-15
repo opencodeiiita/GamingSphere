@@ -5,7 +5,7 @@
 
 **NO need to claim this issue.**
 
-**NO submission will be accepted after 18th January, 11:59 PM.**
+**NO submission will be accepted after 19th Dec 2024, 11:59 PM.**
 
 ---
 
