@@ -6,7 +6,9 @@
 
 Now it’s time to learn the pen tool, one of the most commonly used tools to make vectors.
 
-⭐In this task, you are supposed to copy the given image in Illustrator or Figma using the pen tool and submit the **Illustrator file (.ai file) or a text file with a Figma link.**
+⭐In this task, you are supposed to copy the given image 
+![Screenshot 2024-12-21 155722](https://github.com/user-attachments/assets/223c0cca-e9fe-4c7f-b0af-d0faca093e31)
+in Illustrator or Figma using the pen tool and submit the **Illustrator file (.ai file) or a text file with a Figma link.**
 
 > 💡 This task can be done in Adobe Illustrator or Figma.
 > 
